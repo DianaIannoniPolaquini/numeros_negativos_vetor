@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VETOR_NÚMERO NEGATIVO", "VETOR_NÚMERO NEGATIVO\VETOR_NÚMERO NEGATIVO.csproj", "{0D295017-B28E-4869-95F1-7EA02CAB110D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D295017-B28E-4869-95F1-7EA02CAB110D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D295017-B28E-4869-95F1-7EA02CAB110D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D295017-B28E-4869-95F1-7EA02CAB110D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D295017-B28E-4869-95F1-7EA02CAB110D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0EC48A0A-D3F0-4410-A5B0-B4A7E5A47455}
+	EndGlobalSection
+EndGlobal
